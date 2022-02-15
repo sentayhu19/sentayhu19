@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/joel-kalema-30518a230/" target="blank"><img align="center"
+  <a href="kedin.com/in/sentayhu-berhanu-6376579a/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkdin" height="30" width="40" /></a>
  <a href="https://twitter.com/voltageBerhanu" target="blank"><img align="center"
@@ -64,13 +64,13 @@
 <br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sentayhu19&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="joel-kalema" /></p>
+    alt="sentayhu" /></p>
 
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joel-kalema" /></p>
 
-<!-- <br>
+ <br>
 <h3>Trophies :-</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=adam-pw&bg_color=0d1117&text_color=ffffff" alt="joel-kalema" /></a> </p> -->
+      src="https://github-profile-trophy.vercel.app/?username=sentayhu19&bg_color=0d1117&text_color=ffffff" alt="sentayhu19" /></a> </p>
