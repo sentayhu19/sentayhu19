@@ -68,7 +68,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adam-pw&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joel-kalema" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sentayhu19&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joel-kalema" /></p>
 
  <br>
 <h3>Trophies :-</h3>
