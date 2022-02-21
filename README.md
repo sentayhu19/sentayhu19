@@ -56,7 +56,18 @@
       src="https://cdn-icons-png.flaticon.com/512/528/528261.png"
       alt="php" width="40" height="40" /> <a href="https://cdn-icons-png.flaticon.com" target="_blank"
     rel="noreferrer"> 
-      </a> </p>
+      </a>
+       <img
+      src="https://cdn-icons-png.flaticon.com/512/882/882730.png"
+      alt="cisco packet tracer" width="40" height="40" /> <a href="https://cdn-icons-png.flaticon.com" target="_blank"
+    rel="noreferrer"> 
+      </a>
+       <img
+      src="https://as1.ftcdn.net/v2/jpg/02/69/37/40/1000_F_269374043_29oWqzUTXIQ0Vxha9gLEiyInUAzvzRqr.jpg"
+      alt="python" width="40" height="40" /> <a href="https://cdn-icons-png.flaticon.com" target="_blank"
+    rel="noreferrer"> 
+      </a>
+      </p>
 
 <br>
 
