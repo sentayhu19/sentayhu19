@@ -29,6 +29,9 @@
  <a href="https://twitter.com/voltageBerhanu" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
+      <a href="https://www.instagram.com/sentayhu_berhanu/" target="blank"><img align="center"
+      src="https://logowik.com/content/uploads/images/instagram-icon.jpg"
+      alt="My_Instagram" height="30" width="40" /></a>
 </p>
 
 <br>
