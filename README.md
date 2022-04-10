@@ -70,6 +70,10 @@
       alt="python" width="40" height="40" /> <a href="https://cdn-icons-png.flaticon.com" target="_blank"
     rel="noreferrer"> 
       </a>
+       <a href="https://reactjs.org/docs/getting-started.html" rel="nofollow" target="blank">
+       <img
+           src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+           alt="react" width="40" height="40" />
       </p>
 
 <br>
