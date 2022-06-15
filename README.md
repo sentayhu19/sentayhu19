@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sentayhu Berhanu</h1>
-<h3 align="center">Student at Microverse🌟<img align="center"
-      src="https://media-exp1.licdn.com/dms/image/C560BAQHr8P7gQ95yCQ/company-logo_100_100/0/1578673850004?e=1652918400&v=beta&t=RXH0ssSZr97PvQaT2jIxUMIaJkUaz8y790PmEicZ6WA"
-      alt="adam pithewan" height="30" width="40" /></a>.</h3>
+<h3 align="center">Student at Microverse🌟</a>.</h3>
 
 <br>
 
