@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sentayhu Berhanu</h1>
-<h3 align="center">Student at Microverse🌟</a>.</h3>
 
 <br>
 
@@ -13,7 +12,6 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Sentayhu Berhanu" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **sentayhuberhnu19@gmail.com**
 
